@@ -1,28 +1,41 @@
-# Clase-1
+# ☕ Clase-1 (Java)
 
-Proyecto Java correspondiente a la primera clase de aprendizaje.
+Proyecto Java correspondiente a la primera clase de aprendizaje desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Aplicación Java que implementa los conceptos básicos enseñados en la primera clase de programación.
 
-## Características
+---
+
+## ✨ Características
 
 - Conceptos fundamentales de Java
 - Sintaxis básica
 - Primeros programas
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Java SE
 - Programación básica
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
